@@ -23,10 +23,9 @@
 </div>
 
 ## Discord
-<a href="https://discord.com/users/1513157899973693553"  align="left">
-    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/?bg=000000&theme=dark)](https://discord.com/users/1513157899973693553)">
+<a href="https://discord.com/users/721746046543331449">
+    <img src="https://lanyard.cnrad.dev/api/721746046543331449?bg=000000&theme=dark" />
 </a>
-
 ---
 
 ### ム
