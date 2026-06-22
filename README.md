@@ -22,10 +22,8 @@
 
 ## Discord
 <a href="https://discord.com/users/1513157899973693553">
-    <img src="https://lanyard.cnrad.dev/api/1513157899973693553?theme=dark&bg=FFFFFF&idleMessage=https%3A%2F%2Fkataka.freehosting.dev%2F&showDisplayName=true" />
+    <img src="https://lanyard.cnrad.dev/api/1513157899973693553?theme=dark&bg=ffffff&idleMessage=https%3A%2F%2Fkataka.freehosting.dev%2F&showDisplayName=true" />
 </a>
-
-e4c692
 
 ---
 
