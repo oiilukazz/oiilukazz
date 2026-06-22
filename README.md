@@ -23,9 +23,10 @@
 </div>
 
 ## Discord
-<a href="https://discord.com/users/721746046543331449">
-    <img src="https://lanyard.cnrad.dev/api/721746046543331449?bg=000000&theme=dark" />
+<a href="https://discord.com/users/1513157899973693553">
+    <img src="https://lanyard.cnrad.dev/api/1513157899973693553?bg=000000&theme=dark" />
 </a>
+
 ---
 
 ### ム
