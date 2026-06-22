@@ -16,8 +16,6 @@
 
 [Repositórios](https://github.com/lpcszx?tab=repositories)
 •
-[Projetos](https://github.com/SEU_USUARIO](https://github.com/lpcszx?tab=projects)
-•
 [Contato](Valodsky@email.com)
 
 </div>
