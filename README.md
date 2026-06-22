@@ -4,12 +4,11 @@
 
 <div align="center">
 
-<img src="LINK_DA_SUA_GIF_OU_BANNER" width="600">
+<img src="https://raw.githubusercontent.com/KatakaBot/Imagens/refs/heads/main/656f9b578c5d45d9869a0a52723dd335.gif" width="600">
 
 ### Desenvolvedor de Bots para Discord, projetos Roblox e automações.
 
 ![Roblox](https://img.shields.io/badge/Roblox-Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Disnake](https://img.shields.io/badge/Disnake-Latest-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
