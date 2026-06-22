@@ -8,7 +8,7 @@
 
 ### Desenvolvedor de Bots para Discord, projetos Roblox e automações.
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Kataka]([(https://kataka.freehosting.dev/logo.png))
 ![Disnake](https://img.shields.io/badge/Disnake-Latest-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
